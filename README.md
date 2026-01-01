@@ -11,6 +11,8 @@
     <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white"/>
     <img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white"/>
     <img src="https://img.shields.io/badge/Raspberry%20Pi-EA2D2D?logo=raspberrypi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-E34F26?style=flat-square&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white"/>
   </li> 
   <li>    
     <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=cpp&logoColor=white"/>
@@ -23,8 +25,7 @@
   </li>
   <li>     
     <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"/>   
-    <img src="https://img.shields.io/badge/Linux-E34F26?style=flat-square&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"/>       
   </li>
    <li>
      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>    
