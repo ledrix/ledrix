@@ -18,6 +18,7 @@
   <li>    
     <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=cpp&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cpp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>    
   </li>
   <li>   
