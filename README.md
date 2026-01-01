@@ -8,8 +8,8 @@
 
 <ul>
   <li>    
-    <img
-      src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>    
+    <img src="https://img.shields.io/badge/C++-00599C?logo=cpp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>    
   </li>
   <li>   
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
