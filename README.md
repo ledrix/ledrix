@@ -7,6 +7,10 @@
 <h3>Things I code with</h3>
 
 <ul>
+  <li>
+    <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white"/>
+  </li> 
   <li>    
     <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=cpp&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cpp&logoColor=white"/>
