@@ -10,6 +10,7 @@
   <li>
     <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white"/>
     <img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-EA2D2D?logo=raspberrypi&logoColor=white"/>
   </li> 
   <li>    
     <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=cpp&logoColor=white"/>
