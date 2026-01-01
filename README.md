@@ -13,8 +13,7 @@
     <img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white"/>
     <img src="https://img.shields.io/badge/Raspberry%20Pi-EA2D2D?logo=raspberrypi&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node--RED-8F0000?logo=nodered&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Linux-E34F26?style=flat-square&logo=linux&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-E34F26?style=flat-square&logo=linux&logoColor=black"/>    
   </li> 
   <li>    
     <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=cpp&logoColor=white"/>
