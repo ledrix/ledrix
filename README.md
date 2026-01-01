@@ -9,7 +9,7 @@
 <ul>
   <li>    
     <img src="https://img.shields.io/badge/Linguagem-C-A8B9CC?logo=c&logoColor=white"/>
-    <img src=""/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cpp&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>    
   </li>
   <li>   
